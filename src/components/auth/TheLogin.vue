@@ -78,7 +78,6 @@ export default {
         }
       } catch (error) {
         swal("Oops!", "Algo salió mal", "error");
-        // console.log(error);
       }
     },
   },
